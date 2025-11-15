@@ -1,8 +1,8 @@
 {
   "default": {
     "sqlite-createtable-parser": {
-      "baseline": "2024-05-21",
-      "port-version": 1
+      "baseline": "2025-11-05",
+      "port-version": 0
     }
   }
 }
