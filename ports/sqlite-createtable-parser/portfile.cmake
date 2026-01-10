@@ -2,10 +2,10 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	REPO            marcobambini/sqlite-createtable-parser
-	REF             e26e65b4b2bbe3aeccb007d5e78f0c880be32716
-	SHA512          78433fc339e8b0f39cc7dbd25812ebf9fc5ce324454df9661c54ce986fadd010419e841d1909a5a32dc69a5144222265b1849024b4c339464359f018505cea29
-	HEAD_REF        master
+	REPO            stephnol/sqlite-createtable-parser
+	REF             10779e7a92b453ca9c077e126931a2f73655780e
+	SHA512          c7d7f810ca684e5a3bb51a6198657f485d6e1d2df7d38f02f3d30c14be73f382dc23a11c0fa09a43137ec8636ca17627c7e1229a3895a738707f197fc2ba8f8a
+	HEAD_REF        feature/AUTOINCREMENT-CHECK-GENERATED
 )
 
 file(COPY "${CMAKE_CURRENT_LIST_DIR}/CMakeLists.txt"  DESTINATION "${SOURCE_PATH}")
