@@ -1,2 +1,4 @@
 # vcpkg_custom
-Collection or ports not available in the curared vcpkg repository.
+Collection of ports not available in the curated vcpkg repository.
+
+## [sqlite-createtable-parser](https://github.com/marcobambini/sqlite-createtable-parser)
