@@ -3,8 +3,8 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO            marcobambini/sqlite-createtable-parser
-	REF             afce5facc3bf18e9aad24f2051896c9a5141576e
-	SHA512          4070fb12608203b3df05500ebbea803a635390a2a4189749081363f517544f1055b424ae18dbf7dabe4058776635c957e08a7a4829c442a930d7e3be798c083d
+	REF             d0e68e0e7fc5170cd79a827feaf0cfc0fff93453
+	SHA512          60fa7464f62a6953db8136c35ee229ccc625dfab0a78ba02c0a77e42a78cc40e05da3b1fbc2b6fa9d6fb63b76adeaff26f583ddf900492460c6ed48a171311b8
 	HEAD_REF        master
 )
 
