@@ -1,6 +1,6 @@
 {
   "name": "sqlite-createtable-parser",
-  "version-date": "2026-01-24",
+  "version-date": "2026-01-28",
   "description": "A parser for SQLite create table sql statements.",
   "homepage": "https://github.com/marcobambini/sqlite-createtable-parser",
   "license": "MIT",
